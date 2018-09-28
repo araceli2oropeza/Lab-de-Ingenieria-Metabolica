@@ -2,7 +2,8 @@
 
 Aqui se va a poner el script
 
-![Foto](IMG_0041.JPG)
+![Foto](IMG_0041.JPG)  
+Para correr el script tienes que poner bash en la terminal, el nombre del script y terminacion .sh
 
 
 
